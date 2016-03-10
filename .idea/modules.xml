@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MYRConsumer/MYRConsumer.iml" filepath="$PROJECT_DIR$/MYRConsumer/MYRConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MYRDubbo/MYRDubbo.iml" filepath="$PROJECT_DIR$/MYRDubbo/MYRDubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutoConfig/auto_config.iml" filepath="$PROJECT_DIR$/AutoConfig/auto_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/game_tool.iml" filepath="$PROJECT_DIR$/.idea/game_tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map_create/map_create.iml" filepath="$PROJECT_DIR$/map_create/map_create.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessageQueue/message_queue.iml" filepath="$PROJECT_DIR$/MessageQueue/message_queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MsgService/msgService.iml" filepath="$PROJECT_DIR$/MsgService/msgService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gameTool/tools.iml" filepath="$PROJECT_DIR$/gameTool/tools.iml" />
+    </modules>
+  </component>
+</project>

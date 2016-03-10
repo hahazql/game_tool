@@ -1,0 +1,97 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MYRConsumer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MYRConsumer_jar</output-path>
+    <root id="archive" name="MYRConsumer.jar">
+      <element id="module-output" name="MYRConsumer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/gmbal-api-only-3.0.0-b023.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/zookeeper-3.4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jackson-core-asl-1.9.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/cxf-api-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/spring-aop-3.2.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/aopalliance-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/javassist-3.15.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/resteasy-jdk-http-3.0.7.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/cxf-rt-core-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jackson-jaxrs-1.9.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/cxf-rt-frontend-simple-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/tomcat-embed-logging-juli-8.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/commons-pool-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/grizzly-framework-2.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jackson-xc-1.9.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/cxf-rt-transports-http-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/resteasy-client-3.0.7.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/fst-1.55.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/wsdl4j-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/istack-commons-runtime-2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/validation-api-1.0.0.GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/resteasy-jackson-provider-3.0.7.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/commons-lang-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/spring-beans-3.2.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jaxrs-api-3.0.7.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/management-api-3.0.0-b012.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jedis-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/zkclient-0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/javax.annotation-api-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/slf4j-api-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/guava-16.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/fastjson-1.1.39.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/spring-web-3.2.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/slf4j-log4j12-1.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jetty-util-6.1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/libthrift-0.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/objenesis-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/httpclient-4.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jboss-annotations-api_1.1_spec-1.0.1.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/xpp3_min-1.1.4c.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/xstream-1.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/mina-core-1.1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/dubbo-demo-api-2.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/grizzly-core-2.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jackson-mapper-asl-1.9.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/httpcore-4.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/hibernate-validator-4.2.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/javax.ws.rs-api-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jsr173_api-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/tomcat-embed-core-8.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/curator-framework-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/spring-context-3.2.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jaxb-api-2.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/grizzly-portunif-2.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/xmemcached-1.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/woodstox-core-asl-4.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/resteasy-netty-3.0.7.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/cxf-rt-bindings-soap-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/xmlpull-1.1.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/kryo-serializers-0.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/bsf-api-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/log4j-1.2.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/minlog-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/resteasy-jaxrs-3.0.7.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jline-0.9.94.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/cxf-rt-databinding-jaxb-2.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/cache-api-0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/netty-3.7.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/curator-client-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/dubbo-2.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/stax2-api-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/kryo-2.24.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/FastInfoset-1.2.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jaxb-impl-2.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/geronimo-javamail_1.4_spec-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jcip-annotations-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/commons-io-2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/spring-expression-3.2.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/hessian-4.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/commons-codec-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jaxb-core-2.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/grizzly-rcm-2.1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/resteasy-jaxb-provider-3.0.7.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/spring-core-3.2.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/jetty-6.1.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/MYRConsumer/lib/xmlschema-core-2.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
